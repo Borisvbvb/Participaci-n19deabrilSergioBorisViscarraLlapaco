@@ -1,0 +1,3 @@
+com\emergentes\modelo\Libro.class
+com\emergentes\utiles\ConexionDB.class
+com\emergentes\controlador\MainController.class
